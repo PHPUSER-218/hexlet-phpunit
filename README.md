@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # php-package
 
 [![Github Actions Status](https://github.com/hexlet-boilerplates/php-package/workflows/PHP%20CI/badge.svg)](https://github.com/hexlet-boilerplates/php-package/actions)
@@ -43,3 +44,6 @@ This repository is created and maintained by the team and the community of Hexle
 
 
 See most active contributors on [hexlet-friends](https://friends.hexlet.io/).
+=======
+# hexlet-phpunit
+>>>>>>> fbc3a77b98ba87749354d05364c488047053d8c2
